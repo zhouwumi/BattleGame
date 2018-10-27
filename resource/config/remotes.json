@@ -1,0 +1,27 @@
+[
+    {
+        "id":30001,
+        "key":"long",
+        "name":"俯冲",
+        "animation":"long",
+        "type":1,
+        "action":"1",
+        "isLoop":false,
+        "moveSpeed":0,
+        "duration":0.6
+    },
+     {
+        "id":30002,
+        "key":"fish",
+        "name":"鱼",
+        "animation":"fish",
+        "type":3,
+        "action":"animation",
+        "isLoop":true,
+        "moveSpeed":10,
+        "duration":0,
+        "maxSpringTimes":3,
+        "width":107,
+        "height":80
+    }
+]

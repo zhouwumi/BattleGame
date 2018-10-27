@@ -1,0 +1,9 @@
+{"file":"loginGroup.png","frames":{
+"btn_start_png":{"x":1,"y":84,"w":243,"h":141,"offX":0,"offY":0,"sourceW":243,"sourceH":141},
+"login_bg_png":{"x":1,"y":227,"w":308,"h":81,"offX":0,"offY":0,"sourceW":308,"sourceH":81},
+"login_busy_png":{"x":483,"y":1,"w":21,"h":21,"offX":0,"offY":0,"sourceW":21,"sourceH":21},
+"login_free_png":{"x":483,"y":24,"w":21,"h":21,"offX":0,"offY":0,"sourceW":21,"sourceH":21},
+"login_square_png":{"x":246,"y":137,"w":163,"h":49,"offX":0,"offY":0,"sourceW":163,"sourceH":49},
+"login_word_djqh_png":{"x":246,"y":188,"w":73,"h":20,"offX":0,"offY":0,"sourceW":73,"sourceH":20},
+"select_word_bg_png":{"x":1,"y":1,"w":480,"h":81,"offX":0,"offY":0,"sourceW":480,"sourceH":81},
+"title_sel_area_png":{"x":246,"y":84,"w":173,"h":51,"offX":0,"offY":0,"sourceW":173,"sourceH":51}}}

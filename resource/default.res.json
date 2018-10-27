@@ -1,0 +1,704 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,s9bg_1_png,s9bg_2_png,btn_qd1_png,btn_qd2_png,btn_qx1_png,btn_qx2_png,410006_png,bg_410006_jpg,heros_json,remotes_json,buffer_json,duanyu_skeleton_ske2_json,duanyu_skeleton_tex2_json,duanyu_skeleton_tex2_png,wuyazi_skeleton_ske2_json,wuyazi_skeleton_tex2_json,wuyazi_skeleton_tex2_png,fish_skeleton_ske2_json,fish_skeleton_tex2_json,fish_skeleton_tex2_png,long_skeleton_ske2_json,long_skeleton_tex2_json,long_skeleton_tex2_png,button_down2_png,button_up2_png,checkbox_select_disabled2_png,checkbox_select_down2_png,checkbox_select_up2_png,checkbox_unselect2_png,selected2_png,border2_png,header2_png,thumb_pb2_png,track_pb2_png,radiobutton_select_disabled2_png,radiobutton_select_down2_png,radiobutton_select_up2_png,radiobutton_unselect2_png,roundthumb2_png,track_sb2_png,thumb2_png,track2_png,tracklight2_png,handle2_png,off2_png,on2_png,bg2_jpg,egret_icon2_png,loginGroup_json,talk_png,fontRes_json,commonGroup_json,round1_json,round2_json,skill_10001_json,skill_10002_json,skill_10003_json,skill_20001_json,skill_10004_json",
+			"name": "preload"
+		},
+		{
+			"keys": "wuyazi_skeleton_tex_json,wuyazi_skeleton_tex_png,wuyazi_skeleton_ske_json",
+			"name": "wuyazi"
+		},
+		{
+			"keys": "duanyu_skeleton_ske_json,duanyu_skeleton_tex_json,duanyu_skeleton_tex_png",
+			"name": "duanyu"
+		},
+		{
+			"keys": "long_skeleton_tex_png,long_skeleton_tex_json,long_skeleton_ske_json",
+			"name": "long"
+		},
+		{
+			"keys": "fish_skeleton_ske_json,fish_skeleton_tex_png,fish_skeleton_tex_json",
+			"name": "fish"
+		},
+		{
+			"keys": "halo_skeleton_tex_png,halo_skeleton_ske_json,halo_skeleton_tex_json",
+			"name": "halo"
+		},
+		{
+			"keys": "zhiliao_skeleton_ske_json,zhiliao_skeleton_tex_json,zhiliao_skeleton_tex_png",
+			"name": "zhiliao"
+		},
+		{
+			"keys": "bigfla_skeleton_tex_png,bigfla_skeleton_tex_json,bigfla_skeleton_ske_json",
+			"name": "bigfla"
+		},
+		{
+			"keys": "yangguo_skeleton_tex_json,yangguo_skeleton_tex_png,yangguo_skeleton_ske_json",
+			"name": "yangguo"
+		},
+		{
+			"keys": "qiaofeng_skeleton_tex_png,qiaofeng_skeleton_tex_json,qiaofeng_skeleton_ske_json",
+			"name": "qiaofeng"
+		},
+		{
+			"keys": "wangyuyan_skeleton_ske_json,wangyuyan_skeleton_tex_json,wangyuyan_skeleton_tex_png",
+			"name": "wangyuyan"
+		},
+		{
+			"keys": "shibing3_skeleton_ske_json,shibing3_skeleton_tex_json,shibing3_skeleton_tex_png",
+			"name": "shibing3"
+		},
+		{
+			"keys": "zdshibai_skeleton_tex_json,zdshibai_skeleton_tex_png,zdshibai_skeleton_ske_json",
+			"name": "zdshibai"
+		},
+		{
+			"keys": "baoji_skeleton_ske_json,baoji_skeleton_tex_json,baoji_skeleton_tex_png",
+			"name": "baoji"
+		},
+		{
+			"keys": "xuanyun_skeleton_tex_json,xuanyun_skeleton_tex_png,xuanyun_skeleton_ske_json",
+			"name": "xuanyun"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "common/s9bg_1.png",
+			"type": "image",
+			"name": "s9bg_1_png"
+		},
+		{
+			"url": "common/s9bg_2.png",
+			"type": "image",
+			"name": "s9bg_2_png"
+		},
+		{
+			"url": "common/btn_qd1.png",
+			"type": "image",
+			"name": "btn_qd1_png"
+		},
+		{
+			"url": "common/btn_qd2.png",
+			"type": "image",
+			"name": "btn_qd2_png"
+		},
+		{
+			"url": "common/btn_qx1.png",
+			"type": "image",
+			"name": "btn_qx1_png"
+		},
+		{
+			"url": "common/btn_qx2.png",
+			"type": "image",
+			"name": "btn_qx2_png"
+		},
+		{
+			"url": "battle/410006.png",
+			"type": "image",
+			"name": "410006_png"
+		},
+		{
+			"url": "battle/bg_410006.jpg",
+			"type": "image",
+			"name": "bg_410006_jpg"
+		},
+		{
+			"url": "common/loginGroup.json",
+			"type": "sheet",
+			"name": "loginGroup_json",
+			"subkeys": "btn_start_png,login_bg_png,login_busy_png,login_free_png,login_square_png,login_word_djqh_png,select_word_bg_png,title_sel_area_png"
+		},
+		{
+			"url": "animation/hero/duanyu/duanyu_skeleton_ske.json",
+			"type": "json",
+			"name": "duanyu_skeleton_ske_json"
+		},
+		{
+			"url": "animation/hero/duanyu/duanyu_skeleton_tex.json",
+			"type": "json",
+			"name": "duanyu_skeleton_tex_json"
+		},
+		{
+			"url": "animation/hero/duanyu/duanyu_skeleton_tex.png",
+			"type": "image",
+			"name": "duanyu_skeleton_tex_png"
+		},
+		{
+			"url": "animation/hero/wuyazi/wuyazi_skeleton_tex.json",
+			"type": "json",
+			"name": "wuyazi_skeleton_tex_json"
+		},
+		{
+			"url": "animation/hero/wuyazi/wuyazi_skeleton_tex.png",
+			"type": "image",
+			"name": "wuyazi_skeleton_tex_png"
+		},
+		{
+			"url": "animation/hero/wuyazi/wuyazi_skeleton_ske.json",
+			"type": "json",
+			"name": "wuyazi_skeleton_ske_json"
+		},
+		{
+			"url": "config/heros.json",
+			"type": "json",
+			"name": "heros_json"
+		},
+		{
+			"url": "animation/remote/long/long_skeleton_tex.json",
+			"type": "json",
+			"name": "long_skeleton_tex_json"
+		},
+		{
+			"url": "animation/remote/long/long_skeleton_tex.png",
+			"type": "image",
+			"name": "long_skeleton_tex_png"
+		},
+		{
+			"url": "animation/remote/long/long_skeleton_ske.json",
+			"type": "json",
+			"name": "long_skeleton_ske_json"
+		},
+		{
+			"url": "config/remotes.json",
+			"type": "json",
+			"name": "remotes_json"
+		},
+		{
+			"url": "animation/remote/fish/fish_skeleton_ske.json",
+			"type": "json",
+			"name": "fish_skeleton_ske_json"
+		},
+		{
+			"url": "animation/remote/fish/fish_skeleton_tex.png",
+			"type": "image",
+			"name": "fish_skeleton_tex_png"
+		},
+		{
+			"url": "animation/remote/fish/fish_skeleton_tex.json",
+			"type": "json",
+			"name": "fish_skeleton_tex_json"
+		},
+		{
+			"url": "config/buffer.json",
+			"type": "json",
+			"name": "buffer_json"
+		},
+		{
+			"url": "animation/hero/duanyu/duanyu_skeleton_ske.json",
+			"type": "json",
+			"name": "duanyu_skeleton_ske2_json"
+		},
+		{
+			"url": "animation/hero/duanyu/duanyu_skeleton_tex.json",
+			"type": "json",
+			"name": "duanyu_skeleton_tex2_json"
+		},
+		{
+			"url": "animation/hero/duanyu/duanyu_skeleton_tex.png",
+			"type": "image",
+			"name": "duanyu_skeleton_tex2_png"
+		},
+		{
+			"url": "animation/hero/wuyazi/wuyazi_skeleton_ske.json",
+			"type": "json",
+			"name": "wuyazi_skeleton_ske2_json"
+		},
+		{
+			"url": "animation/hero/wuyazi/wuyazi_skeleton_tex.json",
+			"type": "json",
+			"name": "wuyazi_skeleton_tex2_json"
+		},
+		{
+			"url": "animation/hero/wuyazi/wuyazi_skeleton_tex.png",
+			"type": "image",
+			"name": "wuyazi_skeleton_tex2_png"
+		},
+		{
+			"url": "animation/remote/fish/fish_skeleton_ske.json",
+			"type": "json",
+			"name": "fish_skeleton_ske2_json"
+		},
+		{
+			"url": "animation/remote/fish/fish_skeleton_tex.json",
+			"type": "json",
+			"name": "fish_skeleton_tex2_json"
+		},
+		{
+			"url": "animation/remote/fish/fish_skeleton_tex.png",
+			"type": "image",
+			"name": "fish_skeleton_tex2_png"
+		},
+		{
+			"url": "animation/remote/long/long_skeleton_ske.json",
+			"type": "json",
+			"name": "long_skeleton_ske2_json"
+		},
+		{
+			"url": "animation/remote/long/long_skeleton_tex.json",
+			"type": "json",
+			"name": "long_skeleton_tex2_json"
+		},
+		{
+			"url": "animation/remote/long/long_skeleton_tex.png",
+			"type": "image",
+			"name": "long_skeleton_tex2_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down2_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up2_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled2_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down2_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up2_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect2_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected2_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border2_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header2_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb2_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb2_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled2_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down2_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up2_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect2_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb2_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb2_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb2_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track2_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight2_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle2_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off2_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on2_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg2_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon2_png"
+		},
+		{
+			"url": "animation/buff/halo/halo_skeleton_tex.png",
+			"type": "image",
+			"name": "halo_skeleton_tex_png"
+		},
+		{
+			"url": "animation/buff/halo/halo_skeleton_ske.json",
+			"type": "json",
+			"name": "halo_skeleton_ske_json"
+		},
+		{
+			"url": "animation/buff/halo/halo_skeleton_tex.json",
+			"type": "json",
+			"name": "halo_skeleton_tex_json"
+		},
+		{
+			"url": "animation/buff/zhiliao/zhiliao_skeleton_ske.json",
+			"type": "json",
+			"name": "zhiliao_skeleton_ske_json"
+		},
+		{
+			"url": "animation/buff/zhiliao/zhiliao_skeleton_tex.json",
+			"type": "json",
+			"name": "zhiliao_skeleton_tex_json"
+		},
+		{
+			"url": "animation/buff/zhiliao/zhiliao_skeleton_tex.png",
+			"type": "image",
+			"name": "zhiliao_skeleton_tex_png"
+		},
+		{
+			"url": "common/talk.png",
+			"type": "image",
+			"name": "talk_png"
+		},
+		{
+			"url": "animation/other/bigfla/bigfla_skeleton_ske.json",
+			"type": "json",
+			"name": "bigfla_skeleton_ske_json"
+		},
+		{
+			"url": "animation/other/bigfla/bigfla_skeleton_tex.json",
+			"type": "json",
+			"name": "bigfla_skeleton_tex_json"
+		},
+		{
+			"url": "animation/other/bigfla/bigfla_skeleton_tex.png",
+			"type": "image",
+			"name": "bigfla_skeleton_tex_png"
+		},
+		{
+			"url": "font/fontRes.json",
+			"type": "sheet",
+			"name": "fontRes_json",
+			"subkeys": "Combat_num_0,Combat_num_1,Combat_num_2,Combat_num_3,Combat_num_4,Combat_num_5,Combat_num_6,Combat_num_7,Combat_num_8,Combat_num_9,Combat_num_p,add_+,add_0,add_1,add_2,add_3,add_4,add_5,add_6,add_7,add_8,add_9,add_冷,add_护,add_攻,add_闪,add_防,cz_0,cz_1,cz_2,cz_3,cz_4,cz_5,cz_6,cz_7,cz_8,cz_9,cz_b,cz_r,cz_s,cz_x,cz_z,cz_元,fightLeyer0,fightLeyer1,fightLeyer2,fightLeyer3,fightLeyer4,fightLeyer5,fightLeyer6,fightLeyer7,fightLeyer8,fightLeyer9,fightLeyer_,fightLeyer层,fightLeyer第,gift_num_0,gift_num_1,gift_num_2,gift_num_3,gift_num_4,gift_num_5,gift_num_6,gift_num_7,gift_num_8,gift_num_9,gift_num_p,lv_0,lv_1,lv_2,lv_3,lv_4,lv_5,lv_6,lv_7,lv_8,lv_9,ms_battle_0,ms_battle_1,ms_battle_2,ms_battle_3,ms_battle_4,ms_battle_5,ms_battle_6,ms_battle_7,ms_battle_8,ms_battle_9,ranking_+,ranking_0,ranking_1,ranking_2,ranking_3,ranking_4,ranking_5,ranking_6,ranking_7,ranking_8,ranking_9,ranking_名,ranking_第,reduce_-,reduce_0,reduce_1,reduce_2,reduce_3,reduce_4,reduce_5,reduce_6,reduce_7,reduce_8,reduce_9,reduce_攻,reduce_暴,reduce_防,v_0,v_1,v_2,v_3,v_4,v_5,v_6,v_7,v_8,v_9,v_v,v_点,wxdw_s_0,wxdw_s_1,wxdw_s_2,wxdw_s_3,wxdw_s_4,wxdw_s_5,wxdw_s_6,wxdw_s_7,wxdw_s_8,wxdw_s_9,wxdw_s_十,wxdw_s_武,wxdw_s_段"
+		},
+		{
+			"url": "common/commonGroup.json",
+			"type": "sheet",
+			"name": "commonGroup_json",
+			"subkeys": "BattleLost_bg_png,BattleLost_btn_xb_png,arrow_point_png,attack_png,battle_bloodbar_bg_png,battle_bloodbar_sprite_png,battle_hero_angerbar_png,battle_hero_bloodbar_png,battle_png,bg_fightPower_png,bg_quality_1_png,bg_quality_2_png,bg_quality_3_png,bg_quality_4_png,bg_quality_5_png,bg_quality_6_png,bg_quality_plus_png,btn_bg_png,btn_buy_1_png,btn_buy_2_png,btn_js_1_png,btn_js_2_png,close_1_png,close_2_png,cu_png,duration_png,energy2_png,energy_bg_2_png,energy_bg_png,energy_png,eqpt_bg_line_png,eqpt_bg_png,exp_s_png,floatingtips_bg_png,hit_bg2_png,hit_bg_png,hit_ls_png,honor_png,icon_Exp_png,icon_dw_png,icon_gold_png,icon_match_png,icon_rank_png,icon_ry_png,icon_wuxue_png,icon_xp_png,icon_zzts_png,jian_L_1_png,jian_L_2_png,jian_M_1_png,jian_M_2_png,label_tishi_10_png,loading_logo_png,login_bg_S_png,lv_png,money_bg_png,ms_battle_bg_png,msg_bg_png,msg_png,name_bg_png,newGuide_back_png,number_bg_png,pic_none_png,plus_L_1_png,plus_L_2_png,plus_M_1_png,plus_M_2_png,plus_plus_png,plus_png,power_png,progress_yellow_png,qd_square_1_png,qd_square_2_png,qd_square_3_png,qd_square_4_png,red_point_disable_png,refresh_1_png,refresh_2_png,rl_png,role_bg_up_png,role_head_bg_1_png,role_head_bg_2_png,role_head_plus_1_png,role_head_plus_2_png,rw_number_bg_png,s9bg_guide_png,shape_strength_png,shape_upstar_png,skill_bg_png,skill_number_png,skip_png,soldout_s_png,soul_1_png,soul_2_png,soul_3_png,soul_4_png,soul_5_png,soul_6_png,square_1_png,square_2_png,square_plus_1_png,square_plus_2_png,star_s_1_png,star_s_2_png,suit_png,wenhao1_png,wenhao2_png,word_new_png,wxdw_Bless_bg_png,wxdw_Bless_png"
+		},
+		{
+			"url": "config/round/round1.json",
+			"type": "json",
+			"name": "round1_json"
+		},
+		{
+			"url": "config/round/round2.json",
+			"type": "json",
+			"name": "round2_json"
+		},
+		{
+			"url": "animation/hero/yangguo/yangguo_skeleton_tex.json",
+			"type": "json",
+			"name": "yangguo_skeleton_tex_json"
+		},
+		{
+			"url": "animation/hero/yangguo/yangguo_skeleton_tex.png",
+			"type": "image",
+			"name": "yangguo_skeleton_tex_png"
+		},
+		{
+			"url": "animation/hero/yangguo/yangguo_skeleton_ske.json",
+			"type": "json",
+			"name": "yangguo_skeleton_ske_json"
+		},
+		{
+			"url": "animation/hero/qiaofeng/qiaofeng_skeleton_tex.json",
+			"type": "json",
+			"name": "qiaofeng_skeleton_tex_json"
+		},
+		{
+			"url": "animation/hero/qiaofeng/qiaofeng_skeleton_tex.png",
+			"type": "image",
+			"name": "qiaofeng_skeleton_tex_png"
+		},
+		{
+			"url": "animation/hero/qiaofeng/qiaofeng_skeleton_ske.json",
+			"type": "json",
+			"name": "qiaofeng_skeleton_ske_json"
+		},
+		{
+			"url": "animation/hero/wangyuyan/wangyuyan_skeleton_ske.json",
+			"type": "json",
+			"name": "wangyuyan_skeleton_ske_json"
+		},
+		{
+			"url": "animation/hero/wangyuyan/wangyuyan_skeleton_tex.json",
+			"type": "json",
+			"name": "wangyuyan_skeleton_tex_json"
+		},
+		{
+			"url": "animation/hero/wangyuyan/wangyuyan_skeleton_tex.png",
+			"type": "image",
+			"name": "wangyuyan_skeleton_tex_png"
+		},
+		{
+			"url": "config/skill/10001.json",
+			"type": "json",
+			"name": "skill_10001_json"
+		},
+		{
+			"url": "config/skill/10002.json",
+			"type": "json",
+			"name": "skill_10002_json"
+		},
+		{
+			"url": "animation/hero/shibing3/shibing3_skeleton_ske.json",
+			"type": "json",
+			"name": "shibing3_skeleton_ske_json"
+		},
+		{
+			"url": "animation/hero/shibing3/shibing3_skeleton_tex.json",
+			"type": "json",
+			"name": "shibing3_skeleton_tex_json"
+		},
+		{
+			"url": "animation/hero/shibing3/shibing3_skeleton_tex.png",
+			"type": "image",
+			"name": "shibing3_skeleton_tex_png"
+		},
+		{
+			"url": "config/skill/10003.json",
+			"type": "json",
+			"name": "skill_10003_json"
+		},
+		{
+			"url": "config/skill/20001.json",
+			"type": "json",
+			"name": "skill_20001_json"
+		},
+		{
+			"url": "animation/other/zdshibai/zdshibai_skeleton_tex.json",
+			"type": "json",
+			"name": "zdshibai_skeleton_tex_json"
+		},
+		{
+			"url": "animation/other/zdshibai/zdshibai_skeleton_tex.png",
+			"type": "image",
+			"name": "zdshibai_skeleton_tex_png"
+		},
+		{
+			"url": "animation/other/zdshibai/zdshibai_skeleton_ske.json",
+			"type": "json",
+			"name": "zdshibai_skeleton_ske_json"
+		},
+		{
+			"url": "animation/buff/baoji/baoji_skeleton_ske.json",
+			"type": "json",
+			"name": "baoji_skeleton_ske_json"
+		},
+		{
+			"url": "animation/buff/baoji/baoji_skeleton_tex.json",
+			"type": "json",
+			"name": "baoji_skeleton_tex_json"
+		},
+		{
+			"url": "animation/buff/baoji/baoji_skeleton_tex.png",
+			"type": "image",
+			"name": "baoji_skeleton_tex_png"
+		},
+		{
+			"url": "animation/buff/xuanyun/xuanyun_skeleton_tex.json",
+			"type": "json",
+			"name": "xuanyun_skeleton_tex_json"
+		},
+		{
+			"url": "animation/buff/xuanyun/xuanyun_skeleton_tex.png",
+			"type": "image",
+			"name": "xuanyun_skeleton_tex_png"
+		},
+		{
+			"url": "animation/buff/xuanyun/xuanyun_skeleton_ske.json",
+			"type": "json",
+			"name": "xuanyun_skeleton_ske_json"
+		},
+		{
+			"url": "config/skill/10004.json",
+			"type": "json",
+			"name": "skill_10004_json"
+		}
+	]
+}
